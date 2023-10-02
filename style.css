@@ -1,0 +1,30 @@
+#textoMostrador {
+    float: left;
+    margin-right: 10px;
+}
+
+#mostrador{
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    width: 252px;
+}
+
+.espaco{
+    height: 80px;
+    width: 80px;
+    border: solid  2px #000;
+    float: left;
+    text-align: center;
+}
+
+.tabuleiro{
+    margin: auto;
+    width: 252px;
+    height: 252px;
+}
+
+.imagemJogada{
+    height: 100%;
+     
+}
